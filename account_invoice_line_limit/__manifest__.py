@@ -22,7 +22,7 @@
 
 {
     'name': u'Límite de Líneas en Facturas MFH',
-    'version': '10.0.1.0.0',
+    'version': '11.0.1.0.0',
     'author': 'Falcon Solutions SpA',
     'maintainer': 'Falcon Solutions',
     'website': 'http://www.falconsolutions.cl',
