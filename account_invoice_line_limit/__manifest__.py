@@ -21,14 +21,14 @@
 ##############################################################################
 
 {
-    'name': u'Límite de Líneas en Facturas MFH',
+    'name': u'Account invoice line limit MFH',
     'version': '11.0.1.0.0',
     'author': 'Falcon Solutions SpA',
     'maintainer': 'Falcon Solutions',
     'website': 'http://www.falconsolutions.cl',
     'license': 'AGPL-3',
     'category': 'Accounting & Finance',
-    'summary': u'Aviso al sobrepasar cantidad de líneas en facturas',
+    'summary': u'',
     'depends': ['account'],
     'data': [
         'views/res_company.xml',
